@@ -1,9 +1,10 @@
 # Writing ADRs
 
+## What
 Architectural Decision Records are documents, stored in source control,
 which capture context and outcome of decisions made about a systems architectural design.
 
-## What
+
 Created by Michael Nygard in 2011, they have become more utilised in industry.  
 [See blog post](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 
@@ -27,7 +28,15 @@ or make your own.
 
 ### Tools
 There are tools which can generate templates:
-[TO DO]
+
+- [adr-tools](https://github.com/npryce/adr-tools) – Shell / Bash
+- [adr](https://www.npmjs.com/package/adr) – Node.js / JavaScript
+- [dotnet-adr](https://github.com/endjin/dotnet-adr) – .NET / C#
+- [adr-tools-python](https://github.com/adam-p/adr-tools-python) – Python
+- [phpadr](https://github.com/adr-tools/phpadr) – PHP
+- [adrs](https://crates.io/crates/adrs) – Rust
+
+
 
 
 ## Why
